@@ -1,5 +1,5 @@
 # SOLID 
-Written by: Eunice Abieyuwa Igbinedion, Sarah Bühler, Liskov substitution principle, Ali Khaleghzadegan, Paul Bauer.
+Written by: Eunice Abieyuwa Igbinedion, Sarah Bühler, Liskov, Ali Khaleghzadegan, and Paul Bauer.
 
 # SOLID-Principle
 
