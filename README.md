@@ -1,11 +1,5 @@
-# SOLID
-Group-One Written by:{
-Single-responsibility principle: "Eunice Abieyuwa Igbinedion"
-The open-closed principle: "Sarah Bühler"
-Liskov substitution principle: "Ali Khaleghzadegan"
-Interface Segregation Principle  (ISP
-Dependency inversion principle: "Paul Bauer"
-}
+# SOLID 
+Written by: Eunice Abieyuwa Igbinedion, Sarah Bühler, Liskov substitution principle, Ali Khaleghzadegan, Paul Bauer.
 
 # SOLID-Principle
 
