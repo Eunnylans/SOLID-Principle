@@ -1,7 +1,13 @@
-# SOLID-Principle
-Group-One WBS Cross-over 
-
 # SOLID
+Group-One Written by:{
+Single-responsibility principle: "Eunice Abieyuwa Igbinedion"
+The open-closed principle: "Sarah Bühler"
+Liskov substitution principle: "Ali Khaleghzadegan"
+Interface Segregation Principle  (ISP
+Dependency inversion principle: "Paul Bauer"
+}
+
+# SOLID-Principle
 
 SOLID Principles, a brief introduction with code examples in JavaScript/TypeScript
 
@@ -13,7 +19,7 @@ It took about 6 billion dollars to create Windows Vista [1] while the tallest bu
 
 Fortunately, over the last few decades, lots of computer scientists like Robert C. Martin created really great ideas and tools to make software development a feasible and manageable process. One of these concepts that are of the highest importance in software development is called SOLID principles. SOLID is an acronym for five design principles intended to make object-oriented designs more understandable, flexible, and maintainable [3]. In this article, we try to explain these concepts in plain and understandable words with code examples in JavaScript/TypeScript.
 
-1\. Single-responsibility principle: Eunice
+1\. Single-responsibility principle (Eunice Abieyuwa Igbinedion)
 
 The Single Responsibility Principle appears to be easy but in the truest sense one of the hardest nuts to crack or basically one of the hardest things to get right. The single Responsibility Principle is very crucial for every developer or programmer because when this is upheld, it makes version control easier. It helps to resolve the problem of incompatible modules that teams are always experiencing. Merge conflicts are another example. if the SRP is strictly adhered to, files will have just one single reason to change, and conflicts will be easier to resolve.
 
