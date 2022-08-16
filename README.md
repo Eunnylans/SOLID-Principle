@@ -232,7 +232,7 @@ A square might be a rectangle, but a Square object is definitely not a Rectangle
 
 The Solution is that all derivatives must conform to the behavior that they expect from the base classes that they use.
 
-4\. Interface Segregation Principle  (ISP)
+4\. Interface Segregation Principle [ISP] (kINAN MH)
 
 -  The Interface Segregation Principle is the fourth SOLID design principle represented by the letter "I".
 
